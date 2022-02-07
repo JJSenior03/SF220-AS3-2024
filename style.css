@@ -1,0 +1,17 @@
+body {background-color: #fffdd9;}
+
+
+
+h1 {color: #ff3846;
+  text-align: center;
+  background-color: #fffdd9;}
+
+nav {color: rgb(255, 25, 0);
+  text-align: center;
+  word-spacing: 25px}
+
+main {background-color: #fffdd9;
+      color: #2d5a8b}
+
+footer {color: #ff3846;
+  text-align: right}
