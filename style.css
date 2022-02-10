@@ -1,17 +1,37 @@
-body {background-color: #fffdd9;}
+body {background-color: #FBF8F1;}
 
 
 
-h1 {color: #ff3846;
+h1 {color: #DD4A48;
   text-align: center;
-  background-color: #fffdd9;}
+  background-color: #F7ECDE;
+  border-style: double;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+  font-family: "Garamond", serif;
+  text-shadow: 2px 2px 5px rgb(255, 120, 120)}
+  
+h2 {color: #54BAB9;
+  text-shadow: 2px 2px 5px rgb(183, 223, 221);
+  text-decoration-line: underline;
+  text-decoration-style: dotted}
 
-nav {color: rgb(255, 25, 0);
+nav {color: #E9DAC1;
   text-align: center;
-  word-spacing: 25px}
+  word-spacing: 20px }
 
-main {background-color: #fffdd9;
-      color: #2d5a8b}
+main {background-color: rgba(247, 236, 222, 0.5);
+    color: #2d5a8b;
+    margin-left: auto;
+    margin-right: auto;
+    width:70%;
+    line-height: 150%;
+    padding-bottom: 10px}
 
-footer {color: #ff3846;
+dl {margin-left: auto;
+    margin-right: auto;
+    width:70%;}
+
+footer {color: rgb(0, 0, 0);
   text-align: right}
